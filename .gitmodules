@@ -1,0 +1,3 @@
+[submodule "lib/restclient.el"]
+	path = lib/restclient.el
+	url = git@github.com:pashky/restclient.el.git
