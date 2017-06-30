@@ -7,5 +7,5 @@ rest client pack based on https://github.com/pashky/restclient.el
 
 In your `.emacs-live.el` add this snippet:
 ```elisp
-(live-add-packs '("/path/to/erlang-pack"))
+(live-add-packs '("/path/to/rest-client-pack"))
 ```
